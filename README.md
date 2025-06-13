@@ -61,7 +61,7 @@ Must be printed with transparent filament.
 </details>
 
 ## <a name="5_parag"></a> 5. Operation modes
-1. Offline mode
+1. Offline mode  
   1.1 When turned on, lamp will try to connect to wifi (blue led will be lit). If it has no credentials, after 5 seconds it will turn into server and host it's own wifi.
 It will be called "ESP32 lamp" and will not have password. White led will be lit. You must connect to it, go to 192.168.4.1 and enter WiFi credentials,
 where lamp shall connect to. After this, you shall restart the lamp and it will connect to wifi.  
